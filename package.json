@@ -2,7 +2,7 @@
   "name": "countdowntimer",
   "version": "1.0.0",
   "description": "winter countdown timer in guadalajara",
-  "main": "index.html",
+  "main": "scripts.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
