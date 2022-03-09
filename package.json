@@ -1,0 +1,19 @@
+{
+  "name": "countdowntimer",
+  "version": "1.0.0",
+  "description": "winter countdown timer in guadalajara",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharlyMendoza7/CountDownWinter.git"
+  },
+  "author": "Carlos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CharlyMendoza7/CountDownWinter/issues"
+  },
+  "homepage": "https://github.com/CharlyMendoza7/CountDownWinter#readme"
+}
